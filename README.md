@@ -2,6 +2,9 @@
 
 A modern web-based vending machine application implementing Mealy Machine state transitions using Flask (Python) backend and HTML/CSS/JavaScript frontend.
 
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://vending-machine-flask-kmis.onrender.com/)
+
+
 ## 🎯 Project Overview
 
 This project demonstrates a complete vending machine system based on **Mealy Machine** architecture, suitable for Automata Theory, Software Design & Architecture (SDA), and Object-Oriented Programming (OOP) courses.
@@ -159,3 +162,4 @@ Date: December 15, 2025
 ## 📄 License
 
 This project is for educational purposes.
+
